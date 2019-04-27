@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/thm28/Desktop/AllInOneMono/AllInOneMono/Content/Sound/play.mp3</SourceFile>
+  <SourceTime>2018-11-19T19:11:25.0940818-05:00</SourceTime>
+  <DestFile>C:/Users/thm28/Desktop/AllInOneMono/AllInOneMono/Content/bin/Windows/Sound/play.xnb</DestFile>
+  <DestTime>2018-12-07T19:19:26.9397609-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/thm28/Desktop/AllInOneMono/AllInOneMono/Content/bin/Windows/Sound/play.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <Value>11</Value>
+  </Score>
+  <Score>
+    <Value>7</Value>
+  </Score>
+  <Score>
+    <Value>5</Value>
+  </Score>
+  <Score>
+    <Value>4</Value>
+  </Score>
+  <Score>
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <Value>2</Value>
+  </Score>
+  <Score>
+    <Value>1</Value>
+  </Score>
+  <Score>
+    <Value>0</Value>
+  </Score>
+</ArrayOfScore>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Fonts/HighScoreFont.spritefont</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/About.jpg</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/apple.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/background.jpg</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/blank.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/Help.jpg</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/highscore.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/HowToPlay.jpg</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/LoseScreen.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/R.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/score.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/ShareBackGround.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/Snake.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/space.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/StartScreen.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Images/tail.png</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Sound/eat.wav</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Sound/hit.wav</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Sound/move.wav</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Sound/play.mp3</File>
+    <File>C:/Users/thm28/Desktop/Final Project Game/Source Code/HMFinal/Content/Sound/start.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
